@@ -1,0 +1,6 @@
+{
+	"name": "shell",
+	"scripts": {
+		"shell": "/bin/bash -p"
+	}
+}
